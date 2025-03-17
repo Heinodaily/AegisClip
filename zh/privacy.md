@@ -1,7 +1,7 @@
 # AegisClip 隐私政策
 
 **最后更新**：2025年3月1日  
-[English Version](/en/privacy)
+[English Version](/AegisClip/en/privacy)
 
 ## 1. 数据收集与存储
 - **数据类型**：剪贴板历史记录（文本/图片）
