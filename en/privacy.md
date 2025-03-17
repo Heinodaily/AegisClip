@@ -1,7 +1,6 @@
 # AegisClip Privacy Policy
 
-**Last Updated**: August 1, 2024  
-[中文版本](/zh/privacy)
+**Last Updated**: March 1, 2025  
 
 ## 1. Data Collection & Storage
 - **Data Types**: Clipboard history (text/images)
@@ -15,7 +14,6 @@
 ## 3. Your Rights
 - **Access**: View stored content via app interface
 - **Deletion**: Permanently erase data via "Clear History" button
-- **Export**: Drag-and-drop items to Finder for local export
 
 ## 4. Contact Us
 For inquiries:  
